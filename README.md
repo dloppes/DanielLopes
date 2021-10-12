@@ -1,22 +1,17 @@
-### Hi there 👋, Daniel Lopes
+![Bsc in Computer Science | Software Engineer | Data Analyst | Customer Experience | Technology | Payment Negotiation](https://github.com/dloppes/DanielLopes/blob/main/Red%20Blue%20Traditional%20College%20Graduation%20Banner.png)
+
+### Hi there 👋,
 #### Bsc in Computer Science | Software Engineer | Data Analyst | Customer Experience | Technology | Payment Negotiation
-![Bsc in Computer Science | Software Engineer | Data Analyst | Customer Experience | Technology | Payment Negotiation](https://media-exp1.licdn.com/dms/image/C4E16AQGy0x8K4ITppQ/profile-displaybackgroundimage-shrink_350_1400/0/1618171940874?e=1639612800&v=beta&t=UgECegQrTmv1786usmpeMa0ZhUJUY6jgc7EPmdW6Mr8)
 
-Byron Pulsifer once said: “To adapt is to move ahead.” As Brazilian that has left my roots and reside in Ireland for the past 5 years I live by this motto.
+I am Daniel Lopes from Brazil. I am passionate about coding and Software development. Have recently graduated from a Bsc in Computer Science I am in pursuit of a job opportunity while learning new frameworks like React and React Native, as well as working in WordPress. Currently doing a bootcamp in Web Development I aim to enhance and learn new technology as the opportunity rises.
 
-More than 15 years of experience in the business industry has led me to be driven, focused, business oriented and data driven. Communicating with a multinational client, producing daily reports, analysing data, negotiating debts and helping the company I worked for expand more than 15% its growth in a month and 100% in a year are some of my accomplisments.
-
-Whether it is working on group project in College leading a team of 4 people, talking to an audience in church of 500 or being on TV/Radio due to my journalism course I take pride in communicating in the most effective way and engaging with my audience.
-
-I make it my mission to have goals and set the targets to get where I want to be. Challenges do not discourage me. I love overcoming difficult situations and it is even more gratifying when I can bring other felow colleagues along with me on the journey. Teamwork is essential in my conception if you want to get farther quicker.
-
-Enjoying myself is extremely important to me too, when I am not working or studying, you can find me out exploring the world with my fiancee, working out.
-
-Please reach out to me if you want to talk about data, customer experience or techonology.
-
-Skills: HTML / CSS / JS / NODE / BOOTSTRAP5 / UI / VANILLA JS / SQL / WORD / EXCEL / POWERPOINT / OUTLOOK / WINDOWS 10  
-
-- 🔭 I’m currently working on this page. 
+## Skills and Experience
+* ![image](https://user-images.githubusercontent.com/48283896/136964892-ba306a70-fe13-4139-92a9-ae3300c6b58a.png) HTML
+* ![image](https://user-images.githubusercontent.com/48283896/136965157-47198040-0202-4eb3-956f-2a2cdffbcecf.png) CSS
+* ![image](https://user-images.githubusercontent.com/48283896/136965293-f11d64f4-9793-4d4d-90d6-e7910606a0d2.png) JS
+* ![image](https://user-images.githubusercontent.com/48283896/136965391-26ec3cfd-ec40-47db-ae60-6b4ee675b970.png) English, Portuguese, Spanish
+* ![image](https://user-images.githubusercontent.com/48283896/136965765-9484af7f-ee30-484d-a5d5-0e120afefe3b.png) Bootstrap5, Semantic UI, Bulma
+* ![image](https://user-images.githubusercontent.com/48283896/136965059-5bb64eeb-8cb2-411f-bfd8-85b5f776f96a.png) SQL
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dloppes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/daniel-lopes-soares-b35109110/)  
