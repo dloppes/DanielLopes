@@ -1,7 +1,6 @@
 ![Bsc in Computer Science | Software Engineer | Data Analyst | Customer Experience | Technology | Payment Negotiation](https://github.com/dloppes/DanielLopes/blob/main/Red%20Blue%20Traditional%20College%20Graduation%20Banner.png)
 
 ### Hi there 👋,
-#### Bsc in Computer Science | Software Engineer | Data Analyst | Customer Experience | Technology | Payment Negotiation
 
 I am Daniel Lopes from Brazil. I am passionate about coding and Software development. Have recently graduated from a Bsc in Computer Science I am in pursuit of a job opportunity while learning new frameworks like React and React Native, as well as working in WordPress. Currently doing a bootcamp in Web Development I aim to enhance and learn new technology as the opportunity rises.
 
